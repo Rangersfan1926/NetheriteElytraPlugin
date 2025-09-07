@@ -1,0 +1,4 @@
+name: NetheriteElytraPlugin
+version: 1.0.0
+main: com.example.netheriteelytra.NetheriteElytraPlugin
+api-version: 1.21
